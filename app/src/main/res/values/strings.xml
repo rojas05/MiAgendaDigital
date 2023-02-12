@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Mi Agenda Digital</string>
+    <string name="bienvenida">Por Favor Ingrese Los Siguientes Datos.</string>
+    <string name="propietario">Propietario</string>
+    <string name="finca">Empresa</string>
+    <string name="clave">Clave De Activacion</string>
+    <string name="guardar">Guardar</string>
+    <string name="obligatorio">Este Campo Es Obligatorio.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Insumos"><b>Insumos</b></string>
+    <string name="Trabajos"><b>Trabajo</b></string>
+    <string name="Otros"><b>Otros</b></string>
+    <string name="Ingresos"><b>Ingresos</b></string>
+    <string name="Agregar">Agregar...</string>
+
+    <!-- texto para el hint -->
+    <string name="precio_insuno">Precio</string>
+    <string name="fecha_insuno">Fecha</string>
+    <string name="descripcion_insuno">Descripcion</string>
+
+
+    <string name="producto">Nombre Del Ingreso</string>
+    <string name="precio_producto">Cantidad Del Ingreso</string>
+    <string name="precio_productoC">PRECIO PRODUCTO</string>
+    <string name="fecha_producto">Fecha Del Ingreso</string>
+    <string name="descripcion_producto">Descripcion Del Ingreso</string>
+    <string name="buscar">Busqueda Rapida</string>
+    <string name="delete">Está Seguro De Eliminar La Nota:</string>
+    <string name="permissions">Si los permisos de lectura y escritura del almacenamiento interno del dispositivo son denegados el sistema no podrá generar el cierre anual.</string>
+    <string name="cancelar">cancelar</string>
+    <string name="btDelete">eliminar</string>
+    <string name="informeRapido">Informe Rapido</string>
+    <string name="cierreAnual">"Cierre Anual "</string>
+    <string name="datos">Datos Empresa</string>
+    <string name="egresos">Egresos</string>
+    <string name="total">Total Ingreso Libre</string>
+    <string name="totalC">Total</string>
+    <string name="Total">Total:  </string>
+    <string name="datosInsuficientes">Datos Insuficientes</string>
+    <string name="bienvenido">Bienvenido</string>
+
+    <string name="descripcion"><b>DESCRIPCION</b></string>
+    <string name="fecha"><b>FECHA</b></string>
+    <string name="costo"><b>COSTO</b></string>
+    <string name="tipo"><b>PRODUCTO</b></string>
+    <string name="totalegresos"><b>TOTAL EGRESOS</b></string>
+    <string name="totalIngresos"><b>TOTAL INGRESOS</b></string>
+    <string name="frace">"La innovación distingue a los líderes de los seguidores"</string>
+    <string name="autor">Steve Jobs</string>
+    <string name="generar">Generar cierre</string>
+    <string name="pronto">Aun es muy pronto para realizar el cierre anual, se recomienda realizar en los últimos días del año. Si desea un informe puede dirigirse a la opción de informe rápido.</string>
+    <string name="recomienda">El cierre anual se recomienda realizar en los últimos días del año, para que la información sea más precisa. Si desea un informe puede dirigirse a la opción de informe rápido.</string>
+    <string name="si">El cierre anual se genera del año actual, al realizarse un cierre de este mismo año en los siguientes este sobrescribirá el anterior.</string>
+    <string name="errorClave">Clave Incorrecta</string>
+    <string name="datosDelete">Eliminar Notas</string>
+    <string name="deleteNotas">Se eliminarán permanentemente todas las notas del año pasado. Se recomienda que la fecha de su dispositivo este correcta</string>
+
+</resources>
